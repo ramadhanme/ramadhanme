@@ -43,7 +43,7 @@
 ### 🚀 Tools & Languages:
 
 <div align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,mysql,git" />
 </div>
 
@@ -52,7 +52,7 @@
 ### 🎬 Photo Album:
 
 <div align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/images/1.png" alt="anime-photo-1" width="96" style="border-radius: 6px;" />
   <img src="assets/images/2.png" alt="anime-photo-2" width="96" style="border-radius: 6px;" />
   <img src="assets/images/3.png" alt="anime-photo-3" width="96" style="border-radius: 6px;" />
@@ -63,7 +63,6 @@
 ### ✨ Quotes:
 
 <div align="center">
-
-> _"I want to make people happy with my code. Although I'm shy and unsure of myself, I'll do my best to fulfill this dream!"_
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <i>"I want to make people happy with my code. Although I'm shy and unsure of myself, I'll do my best to fulfill this dream!"</i>
 </div>
