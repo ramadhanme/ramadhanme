@@ -20,9 +20,9 @@
 
 <!-- About Me -->
 
-### 🌸 About Me:
+## 🌸 About Me:
 
-<img align="right" src="assets/images/avatar.png" alt="Lily Baek" height="150"/>
+<img align="right" src="assets/images/avatar.png" alt="Lily Baek" height="160"/>
 
 <div align="left">
 
@@ -40,7 +40,7 @@
 
 <!-- Tools and Languages -->
 
-### 🚀 Tools & Languages:
+## 🚀 Tools & Languages:
 
 <div align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@
 
 <!-- Anime Photo Album -->
 
-### 🎬 Photo Album:
+## 🎬 Photo Album:
 
 <div align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,9 +60,8 @@
 
 <!-- Quotes -->
 
-### ✨ Quotes:
+## ✨ Quotes:
 
 <div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <i>"I want to make people happy with my code. Although I'm shy and unsure of myself, I'll do my best to fulfill this dream!"</i>
 </div>
